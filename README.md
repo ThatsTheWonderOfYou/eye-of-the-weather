@@ -1,3 +1,3 @@
-### EYE OF THE WEATHER
+### EYEOFTHEWEATHER
 ---
-Eye of the weather is a weather monitoring program that tracks the weather.
+eyeoftheweather is a weather monitoring program that tracks the weather.
